@@ -1,1 +1,1 @@
-# This repository contains the code praticised on Genai Class
+# This repository contains the code praticsed on Genai Class
